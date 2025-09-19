@@ -1,4 +1,4 @@
-name = "Corsola"
+name = Corsola
 type1 = water
 type2 = rock
 natnum = 222
