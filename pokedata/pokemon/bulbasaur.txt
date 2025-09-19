@@ -1,8 +1,8 @@
 name = Bulbasaur
 type1 = grass
 type2 = poison
-natnum = 1
-kannum = 1
+natnum = 001
+kannum = 001
 johnum = 226
 hoenum = 0
 sinnum = 0
