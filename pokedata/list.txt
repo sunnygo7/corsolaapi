@@ -1,2 +1,7 @@
 bulbasaur
+ivysaur
+venusaur
+dratini
+dragonair
+dragonite
 corsola
