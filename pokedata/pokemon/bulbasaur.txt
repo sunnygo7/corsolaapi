@@ -21,3 +21,4 @@ ability2 =
 hiddenability = chlorophyll
 height = "0.6 m (2'00')"
 iconimg = https://archives.bulbagarden.net/media/upload/3/35/Ani001MS.png?20100118183957
+evos = bulbasaur,a016,ivysaur,a032,venusaur
